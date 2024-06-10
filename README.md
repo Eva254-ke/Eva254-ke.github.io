@@ -11,3 +11,4 @@ B.SC Information technology  Mount Kenya university ![Mount-Kenya-University-Log
 security intern at center for cyber security proffessional development and research
 
 ### Projects
+[Apply filters to SQL queries.docx](https://github.com/user-attachments/files/15774641/Apply.filters.to.SQL.queries.docx)
